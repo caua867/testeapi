@@ -1,3 +1,22 @@
+# 🌱 Chat TerraGuia – Assistente Agrícola com IA
+
+Um chatbot inteligente para auxiliar pequenos agricultores com recomendações sobre plantio, previsão do tempo, pragas e mais. Construído com HTML, CSS e JavaScript puro, e pode ser incorporado facilmente em qualquer site, WordPress ou página estática.
+
+---
+
+[🔗 Visualizar Projeto Online](https://chat-terraguiabot.netlify.app)  
+[📂 Ver Código Fonte](https://github.com/SEU_USUARIO/SEU_REPO)
+
+---
+
+## 🖼️ Exemplo da Interface
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/exemplo.png" alt="Print do Chat TerraGuia" width="500"/>
+
+---
+
+## 💡 Código HTML do Chat
+
 ```html
 <!DOCTYPE html>
 <html lang="pt-BR">
