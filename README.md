@@ -83,7 +83,7 @@
       const div = document.createElement("div");
       div.style.textAlign = align;
       div.style.marginBottom = "8px";
-      div.innerHTML = <strong>${sender}:</strong> ${text};
+      div.innerHTML = `<strong>${sender}:</strong> ${text}`;
       chat.appendChild(div);
       chat.scrollTop = chat.scrollHeight;
     }
