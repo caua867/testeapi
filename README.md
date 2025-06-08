@@ -1,3 +1,4 @@
+```html
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -56,7 +57,6 @@
   </style>
 </head>
 <body>
-
   <div class="chatbox">
     <h2>💬 Chat TerraGuia</h2>
     <div class="messages" id="chat"></div>
@@ -65,7 +65,6 @@
       <button onclick="send()">Enviar</button>
     </div>
   </div>
-
   <script>
     const chat = document.getElementById("chat");
 
@@ -101,6 +100,5 @@
       return "Desculpe, ainda estou aprendendo. Reformule sua pergunta, por favor.";
     }
   </script>
-
 </body>
 </html>
